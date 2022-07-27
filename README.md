@@ -5,3 +5,7 @@
 ## Workshops
 
 [Local Development](workshop-local_dev.md)
+
+## Discovery Exercises
+
+[Automate Projects](automate-projects.md)
