@@ -290,6 +290,7 @@ Automate:
 [Automate Policies](https://docs.chef.io/automate/policies/)
 [Automate Roles](https://docs.chef.io/automate/roles/)
 [Automate API Access Management](https://docs.chef.io/automate/api/#tag/policies) (Scroll down from there for the Roles)
+[Recent Chef Blog Post on Projects](https://www.chef.io/blog/group-nodes-via-projects-in-chef-automate)
 
 ## Conclusion
 
